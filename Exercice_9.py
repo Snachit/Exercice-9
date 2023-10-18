@@ -1,0 +1,5 @@
+n=input("saisire votre chaine:")
+o=input("saisire votre occurrence:")
+w=input("saisire votre nouvaux mot:")
+s=n.replace( o , w )
+print(s)
